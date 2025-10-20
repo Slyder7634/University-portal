@@ -1,0 +1,3 @@
+1000 Alice 30.00 pass1
+1001 Bob 24.50 pass2
+1002 Carol 15.00 pass3
